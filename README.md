@@ -7,3 +7,4 @@ practicing build react app with cli
 - Create react app with cli
 - Understanding nested component
 - Using props to pass data
+- Using rfc (React Functional Component)
